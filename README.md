@@ -2,7 +2,7 @@
 
 Project Overview
 
-In this project I will be utilizing HTML,CSS and JS to build a working simple weather APP. 
+In this project I will be utilizing HTML,CSS and JS to build a working simple weather app. 
 
 Project Files:
 
