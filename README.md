@@ -1,4 +1,4 @@
-# Building-a-weather-app-using-HTML-CSS-JS
+# Weather-app-using-HTML-CSS-JS
 
 Project Overview
 
