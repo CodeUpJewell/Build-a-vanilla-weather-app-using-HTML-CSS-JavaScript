@@ -14,7 +14,6 @@ Component of this Project:
     
     • Restful API fetch to return current weather data.
     • Search bar where you can input cities or countries to find out the weather.
-    • Display Screen: It displays the location, date and current degrees in Fahrenheit as well as the hi-low for results.
 
 v2 Project enhancements:
 
